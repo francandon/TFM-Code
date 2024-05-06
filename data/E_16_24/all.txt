@@ -1,0 +1,8 @@
+nu2A01_corr_16_24.lc  
+nu2B01_corr_16_24.lc  
+nu3A01_corr_16_24.lc  
+nu3B01_corr_16_24.lc  
+nu5A01_corr_16_24.lc  
+nu5B01_corr_16_24.lc  
+nu7A01_corr_16_24.lc  
+nu7B01_corr_16_24.lc

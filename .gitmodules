@@ -1,0 +1,3 @@
+[submodule "XTimeAnalysis"]
+	path = XTimeAnalysis
+	url = git@github.com:francandon/XTimeAnalysis.git
